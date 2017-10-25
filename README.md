@@ -7,9 +7,11 @@ ELIZA is an early "chatbot", first implemented in the late 60s by Joseph Weizenb
 
 Notes:
 
-There are dozens of Eliza implementations. 
-This one relies heavily in this code: <https://www.smallsurething.com/implementing-the-famous-eliza-chatbot-in-python/>
-I have added detection and language translation using TextBlob <https://textblob.readthedocs.io/en/dev/index.html> and Google Translate.
+■ There are dozens of Eliza implementations. 
+
+■ This one relies heavily in this code: <https://www.smallsurething.com/implementing-the-famous-eliza-chatbot-in-python/>
+
+■ I have added detection and language translation using TextBlob <https://textblob.readthedocs.io/en/dev/index.html> and Google Translate.
 
 
 
